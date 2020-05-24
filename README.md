@@ -1,2 +1,2 @@
 # jimmbot_simulation
-jimmBOT v1 robot simulation
+jimmBOT v1 robot simulation metapackage
